@@ -3,7 +3,7 @@ name: fear-and-interest-mapping
 description: Map the true motivations driving behavior by identifying what each party fears and desires, stripped of stated positions and moral justifications. Human action is matter in motion—this skill reveal...
 license: MIT
 metadata:
-  version: 1.0.3988
+  version: 1.0.3989
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
